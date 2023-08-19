@@ -13,7 +13,7 @@
 ## 📬 Fale comigo!
 </br>
 
-<div style="text-align: center;">
+<div style="align: center;">
 
 [![E-mail](https://img.shields.io/badge/-Email-e9a?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:ybndo.profi@hotmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ybndo-dev)
@@ -55,10 +55,10 @@
 
 <h3>Atualmente estou participando do Bootcamp Santander 2023 pela <a href="https://www.dio.me" target="_blank">DIO</a> na trilha <i>FullStack Java + Angular.</h3>
 
-<a>Acesse meu perfil</a>
+<a href="https://www.dio.me/users/ybndo_profi" target="_blank">Acesse meu perfil</a>
 
 </div>
 
-<div style="clear: both;"></div>
+<div style="clear: both;"> </div>
 
 </div>
